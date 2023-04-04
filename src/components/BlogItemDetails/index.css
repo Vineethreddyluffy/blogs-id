@@ -1,0 +1,40 @@
+.blog-head {
+  font-size: 26px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #000000;
+}
+.content {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #8e8e8e;
+}
+.auth-image {
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+}
+.main-img {
+  height: 300px;
+  width: 600px;
+  border-radius: 10px;
+}
+.img-cont {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.author {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #000000;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inner-cont {
+  width: 600px;
+}

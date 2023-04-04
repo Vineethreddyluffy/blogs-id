@@ -1,0 +1,39 @@
+.title-para {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #8e8e8e;
+}
+.topic-para {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #000000;
+}
+.text-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left: 10px;
+}
+.author-cont {
+  display: flex;
+  align-items: center;
+}
+.image {
+  height: 150px;
+  width: 250px;
+}
+.auth-image {
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+  margin-right: 6px;
+}
+.item-cont {
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  border: solid 1px #d3d3d3;
+  padding: 10px;
+  margin: 10px;
+}

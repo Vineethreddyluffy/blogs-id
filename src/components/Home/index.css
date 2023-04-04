@@ -1,0 +1,22 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.home-head {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #000000;
+}
+.home-para {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #8e8e8e;
+}
+.profile {
+  height: 120px;
+  width: 120px;
+}
